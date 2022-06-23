@@ -1,0 +1,27 @@
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.exe.config
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.exe
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.pdb
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash.dll
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash.pdb
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder_Dash_Win.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.exe
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.pdb
+C:\Users\Daniel\source\repos\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder_Dash_Win.Form1.resources
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.exe.config
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.exe
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash Win.pdb
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash.dll
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\bin\Debug\Boulder Dash.pdb
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder_Dash_Win.Form1.resources
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder_Dash_Win.Properties.Resources.resources
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.CopyComplete
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.exe
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.pdb
+C:\Users\danie\Desktop\Boulder Dash\Boulder Dash Win\obj\Debug\Boulder Dash Win.csproj.SuggestedBindingRedirects.cache
